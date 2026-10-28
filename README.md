@@ -14,6 +14,10 @@ Stochastic modeling and computational methods for financial and insurance risk; 
 
 Code for papers under review or in preparation stays private until publication.
 
+## Projects
+
+- [M/M/2 two-cashier checkout](https://github.com/Vaibhav-kedia/mm2-checkout-queue): closed-form waiting-time distribution, a discrete-event simulator, and validation of 192 quantities against theory.
+
 ## Tools
 
 Python (NumPy, SciPy, pandas, statsmodels, scikit-learn, pytest), R (tidyverse, mgcv), SQL, C++, LaTeX, Git.
