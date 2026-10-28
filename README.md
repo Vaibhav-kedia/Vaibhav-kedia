@@ -1,16 +1,23 @@
-## Hi there 👋
+# Vaibhav Kedia
 
-<!--
-**Vaibhav-kedia/Vaibhav-kedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. student in Quantitative Methods (Mathematical Finance concentration) at Austin Peay State University, graduating May 2027. Graduate Teaching Assistant, Department of Mathematics and Statistics.
 
-Here are some ideas to get you started:
+## Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stochastic modeling and computational methods for financial and insurance risk; numerical methods for option pricing PDEs; statistical modeling of insurance pricing; applied probability and queueing.
+
+## Research
+
+- **Motor insurance pricing with publicly available risk indicators.** Sole author. Under review at the *European Actuarial Journal*.
+- **Accurate and stable Greeks from finite difference schemes under Black-Scholes and Heston.** Working paper in preparation. Talk at the Tennessee Academy of Science 136th Annual Meeting, November 2026.
+- **Telehealth and mental health care among young adults (NSDUH, 2021 to 2024).** Coauthor; data pipeline and analysis. Under review at *Health & Social Work*.
+
+Code for papers under review or in preparation stays private until publication.
+
+## Tools
+
+Python (NumPy, SciPy, pandas, statsmodels, scikit-learn, pytest), R (tidyverse, mgcv), SQL, C++, LaTeX, Git.
+
+## Links
+
+[ORCID](https://orcid.org/0009-0009-1102-9048) · [LinkedIn](https://www.linkedin.com/in/vaibhavkedia7)
